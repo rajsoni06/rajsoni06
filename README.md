@@ -7,8 +7,6 @@
 Connect with me:  
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-anand-soni) [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-anand-soni-037541212/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LuckySonicosmos) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonirajanand677@gmail.com)  
 
-*Note: Replace `https://github.com/raj-anand-soni` with your GitHub username, `https://yourwebsite.com` with your portfolio URL, and update other links as needed.*
-
 ---
 
 # 💻 Tech Stack
