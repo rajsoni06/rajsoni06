@@ -27,7 +27,9 @@ Here’s what I work with:
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajsoni06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsoni06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://nirzak-streak-stats.vercel.app/?user=rajsoni06&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajsoni06&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" height="150px" /> 
+<img src="https://nirzak-streak-stats.vercel.app/?user=rajsoni06&theme=dark&hide_border=false" width="48%" height="150px" />
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsoni06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
