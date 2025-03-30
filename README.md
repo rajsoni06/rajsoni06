@@ -31,15 +31,9 @@ Here’s what I work with:
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raj-anand-soni&theme=radical)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsoni06&label=Profile%20views&color=0e75b6&style=flat" alt="rajsoni06" /> </p>
 
----
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=raj-anand-soni&limit=5&theme=radical)  
-
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsoni06" alt="rajsoni06" /></a> </p>
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=raj-anand-soni&icon=0&color=0) 
 
