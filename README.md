@@ -26,11 +26,73 @@ Here’s what I work with:
 
 ---
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=rajsoni06&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" height="150px" /> <img src="https://nirzak-streak-stats.vercel.app/?user=rajsoni06&theme=dark&hide_border=false" width="48%" height="150px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsoni06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="39%" height="150px" />
+# 📊 GitHub Stats
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=rajsoni06&limit=5&theme=dark&combine_all_yearly_contributions=true" width="43%" height="170px" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rajsoni06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    width="48%" 
+    height="170px"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true" 
+    width="48%" 
+    height="170px"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsoni06&layout=compact&theme=tokyonight&hide_border=true" 
+    width="40%" 
+    height="170px"
+  />
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=rajsoni06&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
+    width="50%" 
+    height="170px"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=rajsoni06&theme=tokyonight&no-frame=true&margin-w=10&row=1" 
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rajsoni06&theme=tokyo-night&hide_border=true" 
+    width="95%"
+  />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=rajsoni06&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="Profile Views"
+  />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajsoni06&icon=0&color=0)](https://visitcount.itsvg.in)
