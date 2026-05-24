@@ -80,18 +80,6 @@ Here’s what I work with:
 
 ---
 
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=rajsoni06&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-    width="50%" 
-    height="170px"
-  />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
