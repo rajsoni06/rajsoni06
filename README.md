@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hello! I'm Raj Anand Soni, a Software Developer at Cognizant with experience in full-stack development, DevOps, and cloud-native technologies. Previously an SDE Intern at PrepBytes, I specialize in building scalable web applications, automating deployment workflows, and developing modern MERN stack solutions. Certified in Azure and AWS, I’m passionate about system design, generative AI, and creating impactful software products. 🌍
+👋 Hello! I'm Raj Anand Soni, a Software Developer at Cognizant with experience in full-stack development, DevOps, and cloud-native technologies. Previously an SDE Intern at PrepBytes and Trainee at Microsoft, I specialize in building scalable web applications, automating deployment workflows, and developing modern MERN stack solutions. Certified in Azure and AWS, I’m passionate about system design, generative AI, and creating impactful software products. 🌍
 
 ---
 
