@@ -30,22 +30,8 @@ Here’s what I work with:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rajsoni06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-    width="48%" 
-    height="170px"
-  />
-
-  <img 
     src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true" 
     width="48%" 
-    height="170px"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsoni06&layout=compact&theme=tokyonight&hide_border=true" 
-    width="40%" 
     height="170px"
   />
 </p>
