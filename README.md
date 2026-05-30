@@ -142,13 +142,14 @@ width="300"
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Insights
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=rajsoni06&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=rajsoni06&label=Profile%20Views&color=7B68EE&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/rajsoni06?label=Followers&style=for-the-badge&color=0A66C2" />
+
+  <img src="https://img.shields.io/github/stars/rajsoni06?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F39C12" />
 </p>
 
 ---
