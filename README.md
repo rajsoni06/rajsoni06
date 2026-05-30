@@ -78,10 +78,31 @@ Here’s what I work with:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsoni06&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## 📊 GitHub Dashboard
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajsoni06&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-profile-trophy-one.vercel.app/?username=rajsoni06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
