@@ -81,20 +81,20 @@ Here’s what I work with:
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/it20097/?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
----
-
-## ⚡ LeetCode Profile
-
-<p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?it20097&theme=dark&animated=true" />
+  <a href="https://leetcode.com/u/it20097/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/it20097?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
 ---
+
+## ⚡ LeetCode Badges
+
+<p align="center">
+  <a href="https://leetcode.com/u/it20097/" target="_blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true" alt="LeetCode Badges" />
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 
