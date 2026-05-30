@@ -66,43 +66,33 @@ Here’s what I work with:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true" 
-    width="48%" 
-    height="170px"
-  />
-</p>
-
----
-
 ## 📊 GitHub Dashboard
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajsoni06&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajsoni06&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </td>
 
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-profile-trophy-one.vercel.app/?username=rajsoni06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+<img src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true" />
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy-one.vercel.app/?username=rajsoni06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"
+    alt="GitHub Trophies"
+    width="95%"
+  />
+</p>
 
 ---
 
@@ -121,7 +111,12 @@ Here’s what I work with:
 <td width="35%" align="center">
 
 <a href="https://leetcode.com/u/it20097/">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true" alt="LeetCode Badges" width="250"/>
+<img
+src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true"
+alt="LeetCode Badges"
+width="250"
+/>
+
 </a>
 
 </td>
@@ -151,9 +146,9 @@ Here’s what I work with:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rajsoni06&theme=tokyo-night&hide_border=true" 
-    width="95%"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rajsoni06&theme=tokyo-night&hide_border=true"
+    width="100%"
   />
 </p>
 
@@ -162,8 +157,8 @@ Here’s what I work with:
 ## 👀 Profile Views
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=rajsoni06&label=Profile%20Views&color=0e75b6&style=flat" 
+  <img
+    src="https://komarev.com/ghpvc/?username=rajsoni06&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Profile Views"
   />
 </p>
