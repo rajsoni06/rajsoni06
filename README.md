@@ -78,54 +78,45 @@ Here’s what I work with:
 
 ---
 
-## 🧩 LeetCode Stats
+## 🧩 LeetCode Hub
 
-<p align="center">
-  <a href="https://leetcode.com/u/it20097/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/it20097?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="65%">
 
----
+<a href="https://leetcode.com/u/it20097/">
+<img src="https://leetcard.jacoblin.cool/it20097?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
-## ⚡ LeetCode Badges
+</td>
 
-<p align="center">
-  <a href="https://leetcode.com/u/it20097/">
-    <img
-      src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true"
-      alt="LeetCode Badges"
-      width="350"
-    />
-  </a>
-</p>
+<td width="35%" align="center">
 
----
-## ⚡ LeetCode Journey
+<a href="https://leetcode.com/u/it20097/">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true" alt="LeetCode Badges" width="250"/>
+</a>
 
-<p align="center">
-  <a href="https://leetcode.com/u/it20097/">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-it20097-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Problem_Solving-DSA-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-C%2B%2B-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Competitive_Coding-Active-red?style=for-the-badge" />
-</p>
----
+</td>
+</tr>
 
-## 🧩 Problem Solving
+<tr>
+<td colspan="2" align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/it20097/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+<br>
 
-  <img src="https://img.shields.io/badge/Data_Structures-%F0%9F%92%A1-blue?style=for-the-badge" />
+<a href="https://leetcode.com/u/it20097/">
+<img src="https://img.shields.io/badge/LeetCode_Profile-it20097-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-  <img src="https://img.shields.io/badge/Algorithms-%E2%9A%A1-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem_Solving-DSA-blueviolet?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/Problem_Solving-%F0%9F%8E%AF-red?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Algorithms-C%2B%2B-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Competitive_Coding-Active-red?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 ---
 
