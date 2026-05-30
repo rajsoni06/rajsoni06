@@ -107,9 +107,9 @@ Here’s what I work with:
 <br><br>
 
 <img src="https://img.shields.io/badge/Problem_Solving-DSA-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Algorithms-C%2B%2B-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Algorithms-C%2B%2B%20%7C%20Java-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Competitive_Coding-Active-red?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/LeetCode_Profile-it20097-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </td>
 
 <td width="40%" align="center">
@@ -123,10 +123,6 @@ width="250"
 </a>
 
 <br><br>
-
-<a href="https://leetcode.com/u/it20097/">
-<img src="https://img.shields.io/badge/LeetCode_Profile-it20097-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
 
 </td>
 
