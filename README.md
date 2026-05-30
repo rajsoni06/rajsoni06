@@ -76,7 +76,7 @@ Here’s what I work with:
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true&cache_seconds=3600"
     alt="GitHub Streak"
   />
 </p>
