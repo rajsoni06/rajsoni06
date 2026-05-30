@@ -98,7 +98,7 @@ Here’s what I work with:
 <table>
 <tr>
 
-<td width="60%">
+<td width="55%">
 
 <a href="https://leetcode.com/u/it20097/">
 <img src="https://leetcard.jacoblin.cool/it20097?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
@@ -112,7 +112,7 @@ Here’s what I work with:
 <img height="24" src="https://img.shields.io/badge/LeetCode_Profile-it20097-C74634?style=for-the-badge&logo=leetcode&logoColor=white" />
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center">
 
 <a href="https://leetcode.com/u/it20097/">
 <img
