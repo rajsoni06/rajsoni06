@@ -61,8 +61,8 @@ Here’s what I work with:
 
 ### AI & GenAI Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D4A373?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-8B5A2B?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -107,7 +107,7 @@ Here’s what I work with:
 <br><br>
 
 <img src="https://img.shields.io/badge/Problem_Solving-DSA-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Algorithms-C%2B%2B%20%7C%20Java-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Algorithms-C%2B%2B%20%7C%20Java-007ACC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Competitive_Coding-Active-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LeetCode_Profile-it20097-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </td>
