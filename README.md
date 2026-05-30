@@ -82,7 +82,7 @@ Here’s what I work with:
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=rajsoni06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"
+    src="https://github-profile-trophy-one.vercel.app/?username=rajsoni06&theme=tokyonightt&no-frame=true&no-bg=true&margin-w=15&column=7"
     alt="GitHub Trophies"
   />
 </p>
