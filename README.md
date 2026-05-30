@@ -51,7 +51,6 @@ Here’s what I work with:
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### AI & GenAI Tools
@@ -68,21 +67,22 @@ Here’s what I work with:
 
 ## 📊 GitHub Dashboard
 
-<table>
-<tr>
-<td width="50%">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajsoni06&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-</td>
-
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-profile-trophy-one.vercel.app/?username=rajsoni06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"
+    alt="GitHub Trophies"
+    width="95%"
+  />
+</p>
 
 <br>
 
