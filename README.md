@@ -118,7 +118,7 @@ Here’s what I work with:
 <img
 src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true"
 alt="LeetCode Badges"
-width="250"
+width="300"
 />
 </a>
 
