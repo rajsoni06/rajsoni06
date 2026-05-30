@@ -150,3 +150,13 @@ width="300"
     alt="Profile Views"
   />
 </p>
+
+---
+
+<p align="center">
+  <b>⭐ Designed & Maintained by Raj Anand Soni</b>
+</p>
+
+<p align="center">
+  <sub>© 2026 Raj Anand Soni • Built with ❤️, Coffee ☕, and Lots of Commits 🚀</sub>
+</p>
