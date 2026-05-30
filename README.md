@@ -96,13 +96,18 @@ Here’s what I work with:
   </a>
 </p>
 
-## 🏆 GitHub Trophies
+## 🧩 Problem Solving
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy-one.vercel.app/?username=rajsoni06&theme=tokyonightt&no-frame=true&no-bg=true&margin-w=15&column=7"
-    alt="GitHub Trophies"
-  />
+  <a href="https://leetcode.com/u/it20097/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Data_Structures-%F0%9F%92%A1-blue?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Algorithms-%E2%9A%A1-green?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Problem_Solving-%F0%9F%8E%AF-red?style=for-the-badge" />
 </p>
 
 ---
