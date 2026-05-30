@@ -106,10 +106,11 @@ Here’s what I work with:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Problem_Solving-DSA-blueviolet?style=flat-square" />
-<img src="https://img.shields.io/badge/Algorithms-C%2B%2B%20%7C%20Java-007ACC?style=flat-square" />
-<img src="https://img.shields.io/badge/Competitive_Coding-Active-red?style=flat-square" />
-<img src="https://img.shields.io/badge/LeetCode_Profile-it20097-C74634?style=flat-square&logo=leetcode&logoColor=white" />
+<img height="24" src="https://img.shields.io/badge/Problem_Solving-DSA-blueviolet?style=for-the-badge" />
+<img height="24" src="https://img.shields.io/badge/Algorithms-C%2B%2B%20%7C%20Java-007ACC?style=for-the-badge" />
+<img height="24" src="https://img.shields.io/badge/Competitive_Coding-Active-red?style=for-the-badge" />
+<img height="24" src="https://img.shields.io/badge/Daily_Coding-Consistent-2EA043?style=for-the-badge" />
+<img height="24" src="https://img.shields.io/badge/LeetCode_Profile-it20097-C74634?style=for-the-badge&logo=leetcode&logoColor=white" />
 </td>
 
 <td width="40%" align="center">
