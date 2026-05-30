@@ -67,7 +67,7 @@ Here’s what I work with:
 
 ## 📊 GitHub Dashboard
 
-## 📊 GitHub Stats
+<h3 align="center">🔥 Contribution Streak</h3>
 
 <p align="center">
   <img
@@ -76,15 +76,7 @@ Here’s what I work with:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy-one.vercel.app/?username=rajsoni06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7"
-    alt="GitHub Trophies"
-    width="95%"
-  />
-</p>
-
-<br>
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
   <img
