@@ -101,7 +101,7 @@ Here’s what I work with:
 <td width="55%">
 
 <a href="https://leetcode.com/u/it20097/">
-<img src="https://leetcard.jacoblin.cool/it20097?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/it20097?theme=dark&font=Karma&ext=heatmap&cache=14400" alt="LeetCode Stats" />
 </a>
 
 <br><br>
