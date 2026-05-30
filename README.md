@@ -6,12 +6,9 @@
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://github.com/rajsoni06"><img src="https://img.shields.io/badge/GitHub-2F3338?style=for-the-badge&logo=github&logoColor=%2361DAFB" /></a>
 <a href="https://raj-anand-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5B4BFF?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/raj-anand-soni-037541212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/LuckySonicosmos">
-  <img src="https://img.shields.io/badge/Twitter-4A4A4A?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+<a href="https://x.com/LuckySonicosmos"><img src="https://img.shields.io/badge/Twitter-4A4A4A?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://leetcode.com/u/it20097/"><img src="https://img.shields.io/badge/LeetCode-C74634?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/soni677"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://www.codechef.com/users/raj_soni_06"><img src="https://img.shields.io/badge/CodeChef-6B3F2A?style=for-the-badge&logo=codechef&logoColor=white" /></a>
