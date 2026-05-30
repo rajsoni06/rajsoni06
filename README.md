@@ -6,7 +6,14 @@
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://github.com/rajsoni06"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=%2361DAFB" /></a><a href="https://raj-anand-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=%2361DAFB" /></a><a href="https://www.linkedin.com/in/raj-anand-soni-037541212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://x.com/LuckySonicosmos"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a><a href="mailto:sonirajanand677@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://leetcode.com/u/it20097/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a><a href="https://codeforces.com/profile/soni677"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a><a href="https://www.codechef.com/users/raj_soni_06"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://github.com/rajsoni06"><img src="https://img.shields.io/badge/GitHub-2F3338?style=flat-square&logo=github&logoColor=%2361DAFB" /></a>
+<a href="https://raj-anand-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5B4BFF?style=flat-square&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/raj-anand-soni-037541212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/LuckySonicosmos"><img src="https://img.shields.io/badge/X-4A4A4A?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://leetcode.com/u/it20097/"><img src="https://img.shields.io/badge/LeetCode-C74634?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/soni677"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/raj_soni_06"><img src="https://img.shields.io/badge/CodeChef-6B3F2A?style=flat-square&logo=codechef&logoColor=white" /></a>
+<a href="mailto:sonirajanand677@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
