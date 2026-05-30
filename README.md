@@ -101,6 +101,17 @@ Here’s what I work with:
 </p>
 
 ---
+## ⚡ LeetCode Journey
+
+<p align="center">
+  <a href="https://leetcode.com/u/it20097/">
+    <img src="https://img.shields.io/badge/LeetCode_Profile-it20097-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Problem_Solving-DSA-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-C%2B%2B-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Competitive_Coding-Active-red?style=for-the-badge" />
+</p>
+---
 
 ## 🧩 Problem Solving
 
