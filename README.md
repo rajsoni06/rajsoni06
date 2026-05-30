@@ -66,7 +66,7 @@ Here’s what I work with:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -91,10 +91,16 @@ Here’s what I work with:
 ## ⚡ LeetCode Badges
 
 <p align="center">
-  <a href="https://leetcode.com/u/it20097/" target="_blank">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true" alt="LeetCode Badges" />
+  <a href="https://leetcode.com/u/it20097/">
+    <img
+      src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true"
+      alt="LeetCode Badges"
+      width="100%"
+    />
   </a>
 </p>
+
+---
 
 ## 🧩 Problem Solving
 
