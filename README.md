@@ -15,23 +15,8 @@
 </p>
 
 ---
-<p align="left">
-  <span style="font-size:50px;"><b>💻 Tech Stack</b></span>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A855F7&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Engineer;DevOps+Engineer;AWS+%7C+Azure;Docker+%7C+Kubernetes;Generative+AI+Enthusiast"
-      alt="Typing SVG"
-      align="center"
-    />
-  </a>
-</p>
-
-Here’s what I work with:
-
-<p align="left">
-  <font size="8"><b>💻 Tech Stack</b></font>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+<h1>
+  💻 Tech Stack &nbsp;|&nbsp;
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A855F7&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+Engineer;DevOps+Engineer;AWS+%7C+Azure;Docker+%7C+Kubernetes;Generative+AI+Enthusiast"
@@ -39,7 +24,9 @@ Here’s what I work with:
       align="center"
     />
   </a>
-</p>
+</h1>
+
+Here’s what I work with:
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
