@@ -3,16 +3,15 @@
 
 ---
 
-## 🌐 Socials
+<h2 align="left">
+  🌐 Socials
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Building+Multi-modal+Vision+Systems;Exploring+AI+Safety+and+Alignment;Welcome+to+my+digital+lab."
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B68EE&vCenter=true&width=750&lines=💻+Software+Engineer;🚀+Full+Stack+Developer;☁️+Cloud+%7C+AWS+%7C+Azure;⚙️+DevOps+Engineer;🐳+Docker+%7C+Kubernetes;🧠+System+Design+Enthusiast;🤖+Generative+AI+Developer;🌐+Building+Scalable+Applications"
       alt="Typing SVG"
     />
   </a>
-
-
-<h2 align="left"> 🌐 Socials <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=Building+Multi-modal+Vision+Systems;Exploring+AI+Safety+and+Alignment;Welcome+to+my+digital+lab." alt="Typing SVG" valign="middle" /> </a> </h2>
+</h2>
 
 
 <p align="left">
