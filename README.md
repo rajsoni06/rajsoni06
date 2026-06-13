@@ -30,7 +30,7 @@
 Here’s what I work with:
 
 <p align="left">
-  <font size="6"><b>💻 Tech Stack</b></font>
+  <font size="8"><b>💻 Tech Stack</b></font>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
     <img
