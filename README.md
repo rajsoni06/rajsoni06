@@ -16,7 +16,7 @@
 
 ---
 <p align="left">
-  <span style="font-size:32px;"><b>💻 Tech Stack</b></span>
+  <span style="font-size:50px;"><b>💻 Tech Stack</b></span>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
     <img
