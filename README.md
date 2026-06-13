@@ -17,9 +17,10 @@
 ---
 <h1 align="left">
   💻 Tech Stack
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+Engineer;DevOps+Engineer;MERN+Stack+Developer;AWS+%7C+Azure+Certified;Generative+AI+Enthusiast;System+Design+Learner;Building+Scalable+Applications"
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=7B68EE&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+%26+DevOps;AWS+%7C+Azure;Docker+%7C+Kubernetes;Generative+AI;System+Design;Open+Source+Contributor"
       alt="Typing SVG"
       valign="middle"
     />
