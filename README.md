@@ -2,17 +2,7 @@
 👋 Hello! I'm Raj Anand Soni, a Software Developer at Cognizant with experience in full-stack development, DevOps, and cloud-native technologies. Previously an SDE Intern at PrepBytes and Trainee at Microsoft, I specialize in building scalable web applications, automating deployment workflows, and developing modern MERN stack solutions. Certified in Azure and AWS, I’m passionate about system design, generative AI, and creating impactful software products. 🌍
 
 ---
-
-<h2 align="left">
-  🌐 Socials
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B68EE&vCenter=true&width=750&lines=💻+Software+Engineer;🚀+Full+Stack+Developer;☁️+Cloud+%7C+AWS+%7C+Azure;⚙️+DevOps+Engineer;🐳+Docker+%7C+Kubernetes;🧠+System+Design+Enthusiast;🤖+Generative+AI+Developer;🌐+Building+Scalable+Applications"
-      alt="Typing SVG"
-    />
-  </a>
-</h2>
-
+## 🌐 Socials
 
 <p align="left">
 <a href="https://raj-anand-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5B4BFF?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -25,8 +15,17 @@
 </p>
 
 ---
+<h1 align="left">
+  💻 Tech Stack
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+Engineer;DevOps+Engineer;MERN+Stack+Developer;AWS+%7C+Azure+Certified;Generative+AI+Enthusiast;System+Design+Learner;Building+Scalable+Applications"
+      alt="Typing SVG"
+      valign="middle"
+    />
+  </a>
+</h1>
 
-# 💻 Tech Stack
 Here’s what I work with:
 
 ### Programming Languages
