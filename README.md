@@ -15,16 +15,16 @@
 </p>
 
 ---
-<h1>
+<h2>
   💻 Tech Stack &nbsp;|&nbsp;
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A855F7&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+Engineer;DevOps+Engineer;AWS+%7C+Azure;Docker+%7C+Kubernetes;Generative+AI+Enthusiast"
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A855F7&vCenter=true&width=650&lines=Full+Stack+Developer;Cloud+Engineer;DevOps+Engineer;AWS+%7C+Azure+%7C+Google+Cloud;Docker+%7C+Kubernetes;Generative+AI+Enthusiast"
       alt="Typing SVG"
       align="center"
     />
   </a>
-</h1>
+</h2>
 
 Here’s what I work with:
 
