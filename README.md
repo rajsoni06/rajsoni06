@@ -4,6 +4,16 @@
 ---
 
 ## 🌐 Socials
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Building+Multi-modal+Vision+Systems;Exploring+AI+Safety+and+Alignment;Welcome+to+my+digital+lab."
+      alt="Typing SVG"
+    />
+  </a>
+
+
+<h2 align="left"> 🌐 Socials <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=Building+Multi-modal+Vision+Systems;Exploring+AI+Safety+and+Alignment;Welcome+to+my+digital+lab." alt="Typing SVG" valign="middle" /> </a> </h2>
+
 
 <p align="left">
 <a href="https://raj-anand-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5B4BFF?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -161,3 +171,7 @@ width="300"
 <p align="center">
   <sub>© 2026 Raj Anand Soni • Built with ❤️, Coffee ☕, and Lots of Commits 🚀</sub>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Animation"/>
+</div>
