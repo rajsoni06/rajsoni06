@@ -83,20 +83,13 @@ Here’s what I work with:
 <h3 align="center">🔥 Contribution Streak</h3>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rajsoni06&theme=tokyonight&hide_border=true&cache_seconds=3600"
-    alt="GitHub Streak"
-  />
+  <img src="assets/streak.svg" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy-one.vercel.app/?username=rajsoni06&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"
-    alt="GitHub Trophies"
-    width="95%"
-  />
+  <img src="assets/trophies.svg" alt="GitHub Trophies" width="95%" />
 </p>
 
 ---
@@ -109,7 +102,7 @@ Here’s what I work with:
 <td width="55%">
 
 <a href="https://leetcode.com/u/it20097/">
-  <img src="https://leetcard.jacoblin.cool/it20097?theme=dark&font=Karma&ext=heatmap&cache=14400" alt="LeetCode Stats" />
+  <img src="assets/leetcode.svg" alt="LeetCode Stats" width="100%" />
 </a>
 
 <br><br>
@@ -123,14 +116,8 @@ Here’s what I work with:
 <td width="45%" align="center">
 
 <a href="https://leetcode.com/u/it20097/">
-<img
-src="https://leetcode-badge-showcase.vercel.app/api?username=it20097&animated=true"
-alt="LeetCode Badges"
-width="300"
-/>
+  <img src="assets/leetcode-badges.svg" alt="LeetCode Badges" width="300" />
 </a>
-
-<br><br>
 
 </td>
 
@@ -142,10 +129,7 @@ width="300"
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rajsoni06&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-  />
+  <img src="assets/activity-graph.svg" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
