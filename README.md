@@ -142,7 +142,9 @@ width="300"
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajsoni06/rajsoni06/output/contrib-green-black.svg" alt="rajsoni06's GitHub contribution graph" width="100%" />
+  <a href="https://github.com/rajsoni06">
+    <img src="https://raw.githubusercontent.com/rajsoni06/rajsoni06/main/assets/contrib.svg" alt="Contribution Graph" width="100%" />
+  </a>
 </p>
 
 ---
